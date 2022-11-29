@@ -9,12 +9,12 @@ body{
     font-family: sans-serif;
 }
 
-img{
+.moviePic{
     width: 300px;
     height: 100%;
     opacity: .9;
 }
-p{
+.movieDetail{
     position: relative;
     top: 0;
     max-width: 500px;
